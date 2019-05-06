@@ -1,0 +1,104 @@
+2019-05-06 15:39:33.997  INFO 1430 --- [main] c.personal.elkstack.ElkstackApplication  : Starting ElkstackApplication on Anmols-MacBook-Pro.local with PID 1430 (/Users/anmolgupta/Downloads/elkstack/target/classes started by anmolgupta in /Users/anmolgupta/Downloads/elkstack)
+2019-05-06 15:39:34.001  INFO 1430 --- [main] c.personal.elkstack.ElkstackApplication  : No active profile set, falling back to default profiles: default
+2019-05-06 15:39:34.663  INFO 1430 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-06 15:39:34.681  INFO 1430 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
+2019-05-06 15:39:36.072  INFO 1430 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-06 15:39:36.125  INFO 1430 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-06 15:39:36.125  INFO 1430 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-06 15:39:36.351  INFO 1430 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-06 15:39:36.352  INFO 1430 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2298 ms
+2019-05-06 15:39:36.868  INFO 1430 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-06 15:39:37.469  INFO 1430 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-06 15:39:37.474  INFO 1430 --- [main] c.personal.elkstack.ElkstackApplication  : Started ElkstackApplication in 19.159 seconds (JVM running for 20.17)
+2019-05-06 15:40:49.072  INFO 1430 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-05-06 15:41:09.682  INFO 2462 --- [main] c.personal.elkstack.ElkstackApplication  : Starting ElkstackApplication on Anmols-MacBook-Pro.local with PID 2462 (/Users/anmolgupta/Downloads/elkstack/target/classes started by anmolgupta in /Users/anmolgupta/Downloads/elkstack)
+2019-05-06 15:41:09.685  INFO 2462 --- [main] c.personal.elkstack.ElkstackApplication  : No active profile set, falling back to default profiles: default
+2019-05-06 15:41:10.480  INFO 2462 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-05-06 15:41:10.502  INFO 2462 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-05-06 15:41:11.249  INFO 2462 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-05-06 15:41:11.308  INFO 2462 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-05-06 15:41:11.308  INFO 2462 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-05-06 15:41:11.473  INFO 2462 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-05-06 15:41:11.473  INFO 2462 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1742 ms
+2019-05-06 15:41:11.929  INFO 2462 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-05-06 15:41:12.563  INFO 2462 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-05-06 15:41:12.568  INFO 2462 --- [main] c.personal.elkstack.ElkstackApplication  : Started ElkstackApplication in 18.507 seconds (JVM running for 19.468)
+2019-05-06 15:41:36.194  INFO 2462 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-05-06 15:41:36.195  INFO 2462 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-05-06 15:41:36.202  INFO 2462 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2019-05-06 15:41:36 INFO  ElkController:32 - My Info Log
+2019-05-06 15:41:36 WARN  ElkController:33 - My Warn Log
+2019-05-06 15:41:36 ERROR ElkController:34 - My error log
+2019-05-06 15:41:36 FATAL ElkController:35 - My fatal log
+2019-05-06 15:41:36 INFO  ElkController:36 - Welcome to JavaInUseMon May 06 15:41:36 IST 2019
+2019-05-06 15:41:36 INFO  ElkController:37 - this is a first log
+2019-05-06 15:42:16 INFO  ElkController:32 - My Info Log
+2019-05-06 15:42:16 WARN  ElkController:33 - My Warn Log
+2019-05-06 15:42:16 ERROR ElkController:34 - My error log
+2019-05-06 15:42:16 FATAL ElkController:35 - My fatal log
+2019-05-06 15:42:16 INFO  ElkController:36 - Welcome to JavaInUseMon May 06 15:42:16 IST 2019
+2019-05-06 15:42:16 INFO  ElkController:37 - this is a first log
+2019-05-06 15:43:21 INFO  ElkController:32 - My Info Log
+2019-05-06 15:43:21 WARN  ElkController:33 - My Warn Log
+2019-05-06 15:43:21 ERROR ElkController:34 - My error log
+2019-05-06 15:43:21 FATAL ElkController:35 - My fatal log
+2019-05-06 15:43:21 INFO  ElkController:36 - Welcome to JavaInUseMon May 06 15:43:21 IST 2019
+2019-05-06 15:43:21 INFO  ElkController:37 - this is a first log
+2019-05-06 15:44:11 ERROR ElkController:48 - java.lang.Exception: Exception has occured....
+2019-05-06 15:44:11 ERROR ElkController:53 - Exception - java.lang.Exception: Exception has occured....
+	at com.personal.elkstack.ElkController.exception(ElkController.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:189)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:102)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:892)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:797)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:200)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:834)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1415)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
